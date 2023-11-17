@@ -1,4 +1,4 @@
-Patient ID, Patient Name, Age, Gender, Symptoms, Surgery Needed, Diagnosis Required
+Patient ID, Patient Name, Age, Gender, Symptoms, Surgery , Diagnosis Required
 1, John Smith, 45, Male, Fever, No, Yes
 2, Emma Johnson, 32, Female, Abdominal Pain, Yes, No
 3, David Wilson, 68, Male, Chest Pain, Yes, No
