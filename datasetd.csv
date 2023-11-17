@@ -5,7 +5,7 @@ Doctor ID, Doctor Name, Specialty, Cases Handled, Surgeries Performed, Availabil
 4, Dr. Brown, General Surgery, Various surgical cases, Appendectomy, Available
 5, Dr. Taylor, Ophthalmology, Eye-related issues, Cataract surgery, Available
 6, Dr. Martinez, Obstetrics and Gynecology, Women's health, Hysterectomy, Available
-7, Dr. Anderson, ENT (Ear, Nose, and Throat), ENT disorders, Tonsillectomy, Not available
+7, Dr. Anderson, (Ear-Nose-and Throat), ENT disorders, Tonsillectomy, Not available
 8, Dr. Lee, Plastic Surgery, Cosmetic and reconstructive procedures, Rhinoplasty, Available
 9, Dr. Garcia, Urology, Urinary system disorders, Prostate surgery, Not available
 10, Dr. Wilson, Pediatrics, Child healthcare, Tonsillectomy, Available
