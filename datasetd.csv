@@ -17,7 +17,7 @@ Doctor ID, Doctor Name, Specialty, Cases Handled, Surgeries Performed, Availabil
 16, Dr. Adams, Nephrology, Kidney disorders, Kidney transplant, Not available
 17, Dr. Turner, Hematology/Oncology, Blood disorders and cancer, Chemotherapy, Available
 18, Dr. Hughes, Rheumatology, Autoimmune diseases, Joint aspiration, Available
-19, Dr. Foster, Otolaryngology, Ear, nose, and throat disorders, Septoplasty, Available
+19, Dr. Foster, Otolaryngology, Ear-nose-and throat disorders, Septoplasty, Available
 20, Dr. Cooper, Neurosurgery, Brain and nervous system disorders, Spinal fusion, Not available
 21, Dr. Reed, Radiology, Imaging and diagnostic procedures, Biopsy, Available
 22, Dr. Coleman, Vascular Surgery, Vascular disorders, Varicose vein surgery, Available
