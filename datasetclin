@@ -1,0 +1,31 @@
+Clinic ID, Clinic Name, Location, Specialization, Doctor Name, Doctor Major, Years of Experience, Number of Beds, Average Rating
+1, Healthy Life Clinic, New York, Cardiology, Dr. John Smith, Cardiology, 12, 50, 4.7
+2, Sunshine Medical Center, Los Angeles, Dermatology, Dr. Emma Johnson, Dermatology, 8, 30, 4.2
+3, CityCare Hospital, Chicago, Obstetrics and Gynecology, Dr. David Wilson, Obstetrics and Gynecology, 15, 100, 4.9
+4, Healing Hands Clinic, Houston, Orthopedics, Dr. Sarah Thompson, Orthopedics, 10, 40, 4.5
+5, Wellness Medical Center, Miami, Psychiatry, Dr. Michael Brown, Psychiatry, 7, 20, 4.0
+6, Harmony Clinic, San Francisco, Pediatrics, Dr. Emily Davis, Pediatrics, 9, 35, 4.8
+7, CareFirst Hospital, Seattle, Neurology, Dr. Christopher Lee, Neurology, 14, 80, 4.6
+8, Vitality Medical Center, Boston, Cardiology, Dr. Laura Roberts, Cardiology, 11, 45, 4.4
+9, SkinCare Solutions, Los Angeles, Dermatology, Dr. Benjamin Harris, Dermatology, 6, 25, 4.1
+10, Women's Wellness Center, Chicago, Obstetrics and Gynecology, Dr. Olivia Adams, Obstetrics and Gynecology, 13, 90, 4.7
+11, OrthoCare Clinic, Houston, Orthopedics, Dr. Jason Davis, Orthopedics, 9, 35, 4.3
+12, Mind Matters Clinic, Miami, Psychiatry, Dr. Sophia Wilson, Psychiatry, 8, 15, 3.9
+13, Little Angels Pediatrics, San Francisco, Pediatrics, Dr. Ethan Anderson, Pediatrics, 10, 40, 4.6
+14, BrainPulse Hospital, Seattle, Neurology, Dr. Lily Wilson, Neurology, 16, 75, 4.8
+15, HeartCare Clinic, New York, Cardiology, Dr. Daniel Evans, Cardiology, 13, 50, 4.5
+16, Epiderm Dermatology Center, Los Angeles, Dermatology, Dr. Ava Thompson, Dermatology, 7, 30, 4.2
+17, Family Maternity Hospital, Chicago, Obstetrics and Gynecology, Dr. Matthew Harris, Obstetrics and Gynecology, 14, 100, 4.9
+18, Healthy Bones Clinic, Houston, Orthopedics, Dr. Olivia Wilson, Orthopedics, 11, 45, 4.5
+19, Mindful Psychiatry Center, Miami, Psychiatry, Dr. Nathan Brown, Psychiatry, 9, 20, 4.1
+20, Pediatric Paradise, San Francisco, Pediatrics, Dr. Chloe Davis, Pediatrics, 10, 35, 4.7
+21, NeuroCure Hospital, Seattle, Neurology, Dr. Benjamin Lee, Neurology, 15, 80, 4.6
+22, CardioVital Clinic, Boston, Cardiology, Dr. Mia Roberts, Cardiology, 12, 55, 4.3
+23, Flawless Skin Clinic, Los Angeles, Dermatology, Dr. Samuel Johnson, Dermatology, 8, 25, 4.0
+24, Women's Wellness Center, Chicago, Obstetrics and Gynecology, Dr. Emily Adams, Obstetrics and Gynecology, 13, 95, 4.8
+25, OrthoPro Clinic, Houston, Orthopedics, Dr. Nathan Thompson, Orthopedics, 10, 40, 4.6
+26, Mindful Minds Psychiatry, Miami, Psychiatry, Dr. Lily Davis, Psychiatry, 8, 18, 3.9
+27, Happy Kids Pediatrics, San Francisco, Pediatrics, Dr. Ethan Wilson, Pediatrics, 11, 40, 4.8
+28, NeuroGen Hospital, Seattle, Neurology, Dr. Olivia Lee, Neurology, 16, 75, 4.7
+29, Heartbeat Clinic, New York, Cardiology, Dr. Samuel Evans, Cardiology, 14, 55, 4.5
+30, SkinSense Dermatology, Los Angeles, Dermatology, Dr. Ava Harris, Dermatology, 7, 30, 4.2
