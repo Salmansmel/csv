@@ -1,0 +1,51 @@
+Patient ID, Patient Name, Age, Gender, Symptoms, Surgery Needed, Diagnosis Required
+1, John Smith, 45, Male, Fever, No, Yes
+2, Emma Johnson, 32, Female, Abdominal Pain, Yes, No
+3, David Wilson, 68, Male, Chest Pain, Yes, No
+4, Sarah Thompson, 55, Female, Joint Pain, No, Yes
+5, Michael Brown, 41, Male, Insomnia, No, Yes
+6, Emily Davis, 27, Female, Cough and Cold, No, Yes
+7, Christopher Lee, 50, Male, Headache, No, Yes
+8, Laura Roberts, 36, Female, Skin Rash, No, Yes
+9, Benjamin Harris, 29, Male, Acne, No, Yes
+10, Olivia Adams, 60, Female, Menstrual Irregularities, No, Yes
+11, Jason Davis, 48, Male, Back Pain, Yes, No
+12, Sophia Wilson, 39, Female, Anxiety, No, Yes
+13, Ethan Anderson, 33, Male, Allergies, No, Yes
+14, Lily Wilson, 52, Female, Memory Loss, No, Yes
+15, Daniel Evans, 43, Male, Shortness of Breath, Yes, No
+16, Ava Thompson, 31, Female, Eczema, No, Yes
+17, Matthew Harris, 57, Male, Abnormal Vaginal Bleeding, No, Yes
+18, Olivia Wilson, 42, Female, Fractured Bone, Yes, No
+19, Nathan Brown, 35, Male, Depression, No, Yes
+20, Chloe Davis, 44, Female, Asthma, No, Yes
+21, Benjamin Lee, 47, Male, Migraine, No, Yes
+22, Mia Roberts, 38, Female, Psoriasis, No, Yes
+23, Samuel Johnson, 56, Male, Skin Infection, No, Yes
+24, Emily Adams, 40, Female, Urinary Tract Infection, No, Yes
+25, Nathan Thompson, 34, Male, Sprained Ankle, Yes, No
+26, Lily Davis, 53, Female, Bipolar Disorder, No, Yes
+27, Ethan Wilson, 37, Male, ADHD, No, Yes
+28, Olivia Lee, 46, Female, Stroke, Yes, No
+29, Samuel Evans, 49, Male, High Blood Pressure, No, Yes
+30, Ava Harris, 30, Female, Rosacea, No, Yes
+31, Emma Wilson, 61, Female, Diabetes, No, Yes
+32, Jacob Smith, 42, Male, Sore Throat, No, Yes
+33, Grace Johnson, 29, Female, Nausea and Vomiting, No, Yes
+34, Noah Wilson, 55, Male, Arthritis, No, Yes
+35, Abigail Thompson, 44, Female, Anxiety, No, Yes
+36, Samuel Brown, 33, Male, Sinusitis, No, Yes
+37, Sophia Davis, 50, Female, Osteoporosis, No, Yes
+38, Chloe Harris, 36, Female, Eczema, No, Yes
+39, Ethan Adams, 47, Male, Insomnia, No, Yes
+40, Ava Anderson, 35, Female, Depression, No, Yes
+41, Benjamin Wilson, 54, Male, Obesity, No, Yes
+42, Mia Thompson, 39, Female, Migraine, No, Yes
+43, Samuel Lee, 43, Male, Back Pain, Yes, No
+44, Emily Roberts, 52, Female, Allergies, No, Yes
+45, Nathan Harris, 38, Male, Asthma, No, Yes
+46, Lily Adams, 45, Female, Hypertension, No, Yes
+47, Ethan Davis, 31, Male, Diabetes, No, Yes
+48, Olivia Thompson, 57, Female, Migraine, No, Yes
+49, Samuel Harris, 40, Male, Anxiety, No, Yes
+50, Ava Davis, 33, Female, Depression, No, Yes
