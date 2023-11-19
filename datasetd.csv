@@ -1,46 +1,51 @@
-Doctor ID, Doctor Name, Specialty, Cases Handled, Surgeries Performed, Availability for Surgery
-1, Dr. Smith, Cardiology, Heart-related cases, Angioplasty, Available
-2, Dr. Johnson, Orthopedics, Bone fractures and joint issues, Joint replacement, Available
-3, Dr. Williams, Neurology, Neurological disorders, Brain surgery, Not available
-4, Dr. Brown, General Surgery, Various surgical cases, Appendectomy, Available
-5, Dr. Taylor, Ophthalmology, Eye-related issues, Cataract surgery, Available
-6, Dr. Martinez, Obstetrics and Gynecology, Women's health, Hysterectomy, Available
-7, Dr. Anderson, (Ear-Nose-and Throat), ENT disorders, Tonsillectomy, Not available
-8, Dr. Lee, Plastic Surgery, Cosmetic and reconstructive procedures, Rhinoplasty, Available
-9, Dr. Garcia, Urology, Urinary system disorders, Prostate surgery, Not available
-10, Dr. Wilson, Pediatrics, Child healthcare, Tonsillectomy, Available
-11, Dr. Taylor, Dermatology, Skin disorders, Mohs surgery, Available
-12, Dr. Hernandez, Gastroenterology, Digestive system disorders, Colonoscopy, Available
-13, Dr. Scott, Pulmonology, Respiratory disorders, Thoracic surgery, Not available
-14, Dr. Lewis, Endocrinology, Hormonal disorders, Thyroidectomy, Available
-15, Dr. Green, Psychiatry, Mental health conditions, Electroconvulsive therapy, Available
-16, Dr. Adams, Nephrology, Kidney disorders, Kidney transplant, Not available
-17, Dr. Turner, Hematology/Oncology, Blood disorders and cancer, Chemotherapy, Available
-18, Dr. Hughes, Rheumatology, Autoimmune diseases, Joint aspiration, Available
-19, Dr. Foster, Otolaryngology, Ear-nose-and throat disorders, Septoplasty, Available
-20, Dr. Cooper, Neurosurgery, Brain and nervous system disorders, Spinal fusion, Not available
-21, Dr. Reed, Radiology, Imaging and diagnostic procedures, Biopsy, Available
-22, Dr. Coleman, Vascular Surgery, Vascular disorders, Varicose vein surgery, Available
-23, Dr. Carter, Family Medicine, General healthcare, Minor surgical procedures, Available
-24, Dr. Wright, Allergy and Immunology, Allergic disorders, Allergy testing, Not available
-25, Dr. Ramirez, Infectious Diseases, Infectious conditions, Abscess drainage, Available
-26, Dr. Powell, Sports Medicine, Sports-related injuries, Arthroscopy, Available
-27, Dr. Kelly, Anesthesiology, Anesthetic management, N/A, Available
-28, Dr. Hayes, Physical Medicine and Rehabilitation, Physical disabilities, Joint injections, Not available
-29, Dr. Perry, Cardiothoracic Surgery, Heart and chest surgeries, Coronary artery bypass grafting, Available
-30, Dr. Sanders, Gynecologic Oncology, Gynecologic cancers, Radical hysterectomy, Not available
-31, Dr. Moore, Plastic Surgery, Reconstructive procedures, Breast reconstruction, Available
-32, Dr. Bailey, Colorectal Surgery, Colorectal disorders, Hemorrhoidectomy, Available
-33, Dr. Ross, Geriatrics, Elderly care, Palliative care, Available
-34, Dr. Morgan, Interventional Radiology, Minimally invasive procedures, Angiography, Available
-35, Dr. Simmons, Podiatry, Foot and ankle disorders, Bunionectomy, Not available
-36, Dr. Reed, Urology, Urinary system disorders, Bladder surgery, Available
-37, Dr. Turner, Endocrinology, Hormonal disorders, Parathyroidectomy, Available
-38, Dr. Collins, Gastroenterology, Digestive system disorders, ERCP, Not available
-39, Dr. Wright, Cardiology, Heart-related cases, Pacemaker implantation, Available
-40, Dr. Anderson, Neurology, Neurological disorders, Epilepsy surgery, Not available
-41, Dr. Martinez, Orthopedics, Bone fractures and joint issues, Arthroplasty, Available
-42, Dr. Johnson, Ophthalmology, Eye-related issues, LASIK surgery, Available
-43, Dr. Scott, Rheumatology, Autoimmune diseases, Joint replacement, Available
-44, Dr. Taylor, General Surgery, Various surgical cases, Hernia repair, Not available
-45, Dr. Adams, Psychiatry, Mental health conditions, Psychotherapy, Available
+Patient ID, Age, Sex, Symptoms, Surgery
+1, 45, 0, 123, 1
+2, 58, 1, 456, 1
+3, 67, 0, 789, 1
+4, 51, 1, 123, 1
+5, 68, 0, 456, 0
+6, 63, 1, 789, 0
+7, 55, 0, 123, 0
+8, 52, 1, 456, 0
+9, 70, 0, 789, 1
+10, 60, 1, 123, 1
+11, 59, 0, 456, 0
+12, 57, 1, 789, 0
+13, 61, 0, 123, 0
+14, 56, 1, 456, 1
+15, 65, 0, 789, 1
+16, 53, 1, 123, 0
+17, 62, 0, 456, 0
+18, 64, 1, 789, 1
+19, 66, 0, 123, 0
+20, 54, 1, 456, 1
+21, 69, 0, 789, 0
+22, 71, 1, 123, 1
+23, 72, 0, 456, 0
+24, 74, 1, 789, 1
+25, 73, 0, 123, 1
+26, 75, 1, 456, 0
+27, 76, 0, 789, 1
+28, 77, 1, 123, 0
+29, 79, 0, 456, 1
+30, 78, 1, 789, 0
+31, 80, 0, 123, 1
+32, 82, 1, 456, 1
+33, 81, 0, 789, 0
+34, 83, 1, 123, 1
+35, 84, 0, 456, 1
+36, 85, 1, 789, 0
+37, 86, 0, 123, 1
+38, 88, 1, 456, 0
+39, 87, 0, 789, 1
+40, 89, 1, 123, 1
+41, 90, 0, 456, 1
+42, 91, 1, 789, 0
+43, 92, 0, 123, 1
+44, 94, 1, 456, 1
+45, 93, 0, 789, 1
+46, 95, 1, 123, 0
+47, 96, 0, 456, 0
+48, 97, 1, 789, 0
+49, 98, 0, 123, 1
+50, 99, 1, 456, 1
